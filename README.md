@@ -1,0 +1,1 @@
+# Moving-Average-forecast-using-Exponential-Smoothing-EXCEL
